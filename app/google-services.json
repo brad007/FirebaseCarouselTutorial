@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "273801887449",
+    "firebase_url": "https://carousel-tutorial.firebaseio.com",
+    "project_id": "carousel-tutorial",
+    "storage_bucket": "carousel-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273801887449:android:6083ede8af30aa16",
+        "android_client_info": {
+          "package_name": "com.fire.fire.firebasecarouseltutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273801887449-pd4261or2ne280hbr9peoiejd9b9qoq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPw1BGVAdMe2zbAwmbmFqTdiqXJv3gZ8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
